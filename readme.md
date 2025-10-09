@@ -1,3 +1,3 @@
 # Open Hierarchy Manager (-inator)
-For creating advanced, multilevel programs in C++.\
-Created for game development (but can be used for other stuff).
+Kind-of a game engine.\
+Allows for sophisticated applications to made with Raylib framework.
